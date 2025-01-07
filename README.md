@@ -2,7 +2,7 @@
 ---
 
 # 💫 About Me:
-UEA Grad (MComp Comp Sci)<br>Currently an Agriforwards CDT Student Studying an MSc in Robotics and Autonomous Systems, after which I'll be moving on to my PhD.<br><br>Most of my projects tend to involve some robotics or electronics components.<br>(On rare occasions, music too)<br><br>
+UEA Grad (MComp Comp Sci)<br>Currently an Agriforwards CDT Student Studying for my PhD after completing an MSc in Robotics and Autonomous Systems, with my PhD centred around soil and Potato Cyst Nematodes (PCN)<br><br>Most of my projects tend to involve some robotics or electronics components.<br>(On rare occasions, music too)<br><br>
 
 
 ## 🌐 Socials:
