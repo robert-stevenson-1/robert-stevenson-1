@@ -2,8 +2,13 @@
 ---
 
 # 💫 About Me:
-UEA Grad (MComp Comp Sci)<br>Currently an Agriforwards CDT Student Studying for my PhD after completing an MSc in Robotics and Autonomous Systems, with my PhD centred around soil and Potato Cyst Nematodes (PCN)<br><br>Most of my projects tend to involve some robotics or electronics components.<br>(On rare occasions, music too)<br><br>
-
+UEA Grad (MComp Comp Sci)<br>
+Current PhD Student under the Agriforwards CDT after completing an MSc in Robotics and Autonomous Systems with the CDT. <br> 
+My PhD centred around Soil and Potato Cyst Nematodes (PCN)<br>
+<br>
+Most of my projects tend to revolve around some form of robotics or electronics.<br>
+(On rare occasions, music too)<br>
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robert-stevenson-447ab2241) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Rob_Stevenson_1) [![ORCID_iD](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-7981-0850) [![Printables](https://img.shields.io/badge/Printables-%23FF6600.svg?style=for-the-badge&logo=printables&logoColor=white)](https://www.printables.com/@RobertSteven_2129712)
