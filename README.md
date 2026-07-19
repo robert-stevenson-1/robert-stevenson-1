@@ -33,4 +33,6 @@ Most of my projects tend to revolve around some form of robotics or electronics.
 
 ---
 
+> _Guide to the snake gif [here](How_to_Add_an_Animated_Contribution_Snake_to_Your_GitHub_Profile.md)_
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
