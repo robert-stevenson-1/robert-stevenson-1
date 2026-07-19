@@ -1,5 +1,10 @@
 [![](https://visitcount.itsvg.in/api?id=robert-stevenson-1&icon=0&color=1)](https://visitcount.itsvg.in)
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robert-stevenson-1/robert-stevenson-1/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robert-stevenson-1/robert-stevenson-1/output/github-snake.svg">
+  <img alt="A snake eating through my GitHub contribution graph" src="https://raw.githubusercontent.com/robert-stevenson-1/robert-stevenson-1/output/github-snake.svg">
+</picture>
 
 # 💫 About Me:
 UEA Grad (MComp Comp Sci)<br>
